@@ -1,0 +1,8 @@
+{
+    "version": "3",
+    "file": "admin-style.css",
+    "sources": [
+        "admin-style.crush.css"
+    ],
+    "mappings": ";AACA;;;;;;;AAOA;;;;;;;AAOA;;;;;AAMA;;;;;;;;;;AAWA;;;AAGA;;;;;AAKA;;;;;;;;AAKC;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAQA;;;;;;;;;;;AAGA;;;;;;;;;;;AAGA;;;;;;;;;;;AAGA;;;;;;;;;;;AAGA;;;;;;;;;;;AAGA;;;;;;;;;;;AAIA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAKA;;;;;;;;AAKC;;;;;;;AAKA;;;;;;AAKD;;;;;AAGA;;;;;;AAIA;;;;;AAGA;;;;;;AAIA;;;;;;;;AAGA;;;;;AAEC;;;;;;AAKD;;;;;AAGA;;;;;AAGA;;;;;AAGA;;;;;;AAKC;;;;;;;;;;;;;;;;;;;;;AAKD;;;;;;;;;;;;;;;;AAWA;;;;;;;;;;;;;;;;;;;AAYC;;;;;;;;;;;;;;AAMA;;;;;;;;;;;;;;;;;;;AAWA;;;;;;;;;;;;;;;;AAQA;;;;;;;;;;;AAGA;;;;;;;;;;;AAGA;;;;;;;;;;;;;;;;;;;;;AAaA;;;;;;;;;;;;;;;;AASC;;;;;;;;;;;;;;;;;;;;;AAIA;;;;;;;;;;;;;;;;;;;;AAKF;;;;;AAEC;;;;;AAGA;;;;;AAID;;;;;;AAIA;;;;;;AAIA;;;;;;;;AAIA;;;;;;;AAMA;;;;;;;;;AAMC;;;;;;;;;AAIA;;;;;;AAGC;;;;;AAKA;;;;;;;AAOF;;;;;AAGA;;;;;;;;;;;AAMA;;;;;AAGA;;;;;AAIA;;;;;;;;;AAIA;;;;;;;;;AAIA;;;;;AAIA;;;;;;AAGC;;;;;AAEC;;;;;;AAMF;;;;;;AAIA;;;;;;AAGC;;;;;AAEC;;;;;AAKF;;;;;;AAKA;;;;;AAIA;;;;;;;;;;;;;;;;;;AAOA;;;;;;AAIA;;;;;AAGA;;;;;;AAIA;;;;;AAGA;;;;;;;;;;;;;AAQA;;;;;;;;AAKC;;;;;;;AAKA;;;;;;;;;;AAOC;;;;;;;;;;AAUF;;;;;;;AAOC;;;;;;;;;;;AAMC;;;;;AAKA;;;;;AAMF;;;;;;;;AAIA;;;;;;;;;;;;;AAMC;;;;;;;;;;;;;;;;;;;;;AASC;;;;;AAGA;;;;;;;;;;;;;;;AAQD;;;;;;;AAGA;;;;;AAID;;;;;;;;;;;;;;AAGA;;;;;;;;;;;;;;AAIA;;;;;;AAKA;;;;;AAIA;;;;;;;;;AAOA;;;;;AAKD;;;;AAKA;;;AAGA;;;AAGA;;;AAGA;;;AAGA;;;;;;AAKC;;;;;AAMD;;;;;;;;;;;AAYA;;;;;AAKA;;;;;AAMA;;;;;;AAOA;;;;;;AAKC;;;AAKD;;;;;AAQE;;;AAMD;;;"
+}

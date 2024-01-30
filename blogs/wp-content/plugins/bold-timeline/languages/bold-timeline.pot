@@ -1,0 +1,1757 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-03 16:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bold-timeline.php:50
+msgid "Bold Timeline"
+msgstr ""
+
+#: bold-timeline.php:51
+msgid "Bold Timelines"
+msgstr ""
+
+#: assets/views/bold_timeline_group_view.php:89
+#: content_elements/bold_timeline_group/bold_timeline_group.php:98
+#: content_elements/bold_timeline_group/bold_timeline_group.php:105
+#: content_elements/bold_timeline_group/bold_timeline_group.php:114
+#: content_elements/bold_timeline_group/bold_timeline_group.php:122
+msgid "Expand"
+msgstr ""
+
+#: assets/views/bold_timeline_item_posts_view.php:116
+msgid "No Posts Found"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:132
+msgid "Toggle"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:133
+msgid "Add"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:134
+#: bold-builder-light/class-btbb-light-list-table.php:165
+msgid "Edit"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:135
+msgid "Edit Content"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:136
+msgid "Clone"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:137
+#: bold-builder-light/class-btbb-light-list-table.php:130
+#: bold-builder-light/class-btbb-light-list-table.php:176
+msgid "Delete"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:138
+msgid "Layout error!"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:139
+msgid "Add Element"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:140
+msgid "Select Layout"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:141
+msgid "Select"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:142
+#: bold-builder-light/bold-builder-light.php:246
+#: bold-builder-light/bold-builder-light.php:845
+msgid "Submit"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:143
+msgid "Copy"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:144
+msgid "Copy +"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:145
+#: bold-builder-light/bold-builder-light.php:254
+msgid "Paste"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:146
+msgid "Export"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:147
+msgid "Import"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:148
+msgid "Not allowed!"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:149
+msgid "Manage Clipboard"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:150
+msgid "Filter..."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:151
+msgid "Shortcode Mapper"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:152
+msgid "Insert Mapping"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:153
+#: bold-builder-light/bold-builder-light.php:258
+#: bold-builder-light/bold-builder-light.php:570
+msgid "Save"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:154
+msgid "Switch Editor"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:155
+msgid "Custom CSS"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:156
+msgid "Are you sure you want to switch editor?"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:157
+msgid "General"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:251
+msgid "Undo"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:252
+msgid "Redo"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:256
+msgid "Clipboard Manager"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:326
+#: bold-builder-light/bold-builder-light.php:522
+msgid "Edit "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:335
+#: bold-builder-light/bold-builder-light.php:336
+#: bold-builder-light/bold-builder-light.php:585
+#: bold-builder-light/bold-builder-light.php:785
+msgid "Product License"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:342
+#: bold-builder-light/bold-builder-light.php:520
+msgid "Add New "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:343
+#: bold-builder-light/bold-builder-light.php:471
+msgid "Add New"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:359
+#: bold-builder-light/bold-builder-light.php:669
+msgid "Nonce error."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:363
+#: bold-builder-light/bold-builder-light.php:498
+msgid "You are not allowed to edit posts."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:367
+msgid "Untitled"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:421
+msgid "You are not allowed to delete posts."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:454
+msgid "You are not allowed edit posts."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:476
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:486
+msgid "Search"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:540
+msgid "Enter title here"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:549
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:562
+msgid "Status"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:579
+msgid "Info"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:582
+msgid "Home page"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:588
+msgid "Documentation"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:591
+msgid "Support"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:655
+msgid "You are not allowed to do this."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:687
+msgid "Error 01. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:695
+msgid "Error 02. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:704
+msgid "License has been deactivated."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:724
+msgid "Error 03. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:732
+msgid "Error 04. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:735
+msgid "Error. Please check that you have entered the correct data."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:739
+msgid "Error. Please check Purchase Code."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:741
+msgid "Error 05. Please try again later."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:745
+msgid "Error. Purchase code already activated on domain "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:745
+#: bold-builder-light/bold-builder-light.php:809
+msgid "."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:749
+msgid "License has been activated."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:807
+#, php-format
+msgid ""
+"In order to receive all benefits, you need to activate your copy of the "
+"plugin. By activating license you will unlock premium options - %sdirect "
+"plugin updates%s and %sassistance of our support team%s."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:809
+msgid ""
+"If you do not have a license or you have activated a license on another "
+"site, then you can "
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:809
+msgid "purchase a license here"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:814
+msgid "Purchase Code"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:817
+msgid "Enter your purchase code here."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:821
+msgid "Email Address (optional)"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:824
+msgid "Enter to get important info and special offers."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:843
+msgid "Deactivate"
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:867
+msgid "Post created."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:869
+msgid "Post saved."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:871
+msgid "Post deleted."
+msgstr ""
+
+#: bold-builder-light/bold-builder-light.php:873
+msgid "Posts deleted."
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:19
+#: content_elements/bold_timeline_group/bold_timeline_group.php:47
+#: content_elements/bold_timeline_item/bold_timeline_item.php:82
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:38
+msgid "Title"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:20
+msgid "Shortcode"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:21
+msgid "Author"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:22
+msgid "Date"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:155
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:174
+msgid ""
+"You are about to delete this post.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:224
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:234
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: bold-builder-light/class-btbb-light-list-table.php:236
+msgid "Y/m/d"
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p11/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p11/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p11/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p11/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p11/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p11/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p11/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: bold-builder-light/plugin-update-checker/Puc/v4p11/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:94
+msgid "Timeline Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:94
+msgid "Timeline Style settings can be overwriten by individual style setting."
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:96
+msgid "Classic Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:97
+msgid "Retro Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:98
+msgid "Clean Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:99
+msgid "Travel Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:100
+msgid "CV Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:103
+msgid "Line position"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:105
+#: content_elements/bold_timeline_container/bold_timeline_container.php:116
+#: content_elements/bold_timeline_container/bold_timeline_container.php:125
+#: content_elements/bold_timeline_container/bold_timeline_container.php:134
+#: content_elements/bold_timeline_container/bold_timeline_container.php:145
+#: content_elements/bold_timeline_container/bold_timeline_container.php:153
+#: content_elements/bold_timeline_container/bold_timeline_container.php:163
+#: content_elements/bold_timeline_container/bold_timeline_container.php:182
+#: content_elements/bold_timeline_container/bold_timeline_container.php:189
+#: content_elements/bold_timeline_container/bold_timeline_container.php:198
+#: content_elements/bold_timeline_container/bold_timeline_container.php:208
+#: content_elements/bold_timeline_container/bold_timeline_container.php:216
+#: content_elements/bold_timeline_container/bold_timeline_container.php:224
+#: content_elements/bold_timeline_container/bold_timeline_container.php:232
+#: content_elements/bold_timeline_container/bold_timeline_container.php:241
+#: content_elements/bold_timeline_container/bold_timeline_container.php:250
+#: content_elements/bold_timeline_container/bold_timeline_container.php:259
+#: content_elements/bold_timeline_container/bold_timeline_container.php:275
+#: content_elements/bold_timeline_container/bold_timeline_container.php:284
+#: content_elements/bold_timeline_container/bold_timeline_container.php:293
+#: content_elements/bold_timeline_container/bold_timeline_container.php:303
+#: content_elements/bold_timeline_container/bold_timeline_container.php:311
+#: content_elements/bold_timeline_container/bold_timeline_container.php:324
+#: content_elements/bold_timeline_container/bold_timeline_container.php:331
+#: content_elements/bold_timeline_container/bold_timeline_container.php:340
+#: content_elements/bold_timeline_container/bold_timeline_container.php:348
+#: content_elements/bold_timeline_container/bold_timeline_container.php:356
+#: content_elements/bold_timeline_container/bold_timeline_container.php:363
+#: content_elements/bold_timeline_container/bold_timeline_container.php:372
+#: content_elements/bold_timeline_container/bold_timeline_container.php:381
+#: content_elements/bold_timeline_container/bold_timeline_container.php:390
+#: content_elements/bold_timeline_container/bold_timeline_container.php:399
+msgid "Inherit from style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:106
+#: content_elements/bold_timeline_container/bold_timeline_container.php:235
+#: content_elements/bold_timeline_container/bold_timeline_container.php:277
+#: content_elements/bold_timeline_item/bold_timeline_item.php:90
+#: content_elements/bold_timeline_item/bold_timeline_item.php:140
+msgid "Left"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:107
+#: content_elements/bold_timeline_container/bold_timeline_container.php:236
+#: content_elements/bold_timeline_container/bold_timeline_container.php:278
+#: content_elements/bold_timeline_item/bold_timeline_item.php:91
+#: content_elements/bold_timeline_item/bold_timeline_item.php:141
+msgid "Right"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:108
+#: content_elements/bold_timeline_container/bold_timeline_container.php:279
+#: content_elements/bold_timeline_item/bold_timeline_item.php:142
+msgid "Center"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:109
+msgid "Center overlap"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:110
+msgid "Top (horizontal timeline)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:111
+msgid "Bottom (horizontal timeline)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:114
+msgid "Line style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:117
+msgid "No line"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:118
+msgid "Solid"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:119
+msgid "Dotted"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:120
+msgid "Dashed"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:123
+msgid "Line thickness"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:126
+#: content_elements/bold_timeline_container/bold_timeline_container.php:154
+#: content_elements/bold_timeline_container/bold_timeline_container.php:304
+#: content_elements/bold_timeline_group/bold_timeline_group.php:51
+#: content_elements/bold_timeline_item/bold_timeline_item.php:155
+msgid "Thin"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:127
+#: content_elements/bold_timeline_container/bold_timeline_container.php:155
+#: content_elements/bold_timeline_container/bold_timeline_container.php:253
+#: content_elements/bold_timeline_container/bold_timeline_container.php:305
+#: content_elements/bold_timeline_container/bold_timeline_container.php:314
+#: content_elements/bold_timeline_container/bold_timeline_container.php:350
+#: content_elements/bold_timeline_container/bold_timeline_container.php:383
+#: content_elements/bold_timeline_container/bold_timeline_container.php:402
+#: content_elements/bold_timeline_group/bold_timeline_group.php:52
+#: content_elements/bold_timeline_group/bold_timeline_group.php:89
+#: content_elements/bold_timeline_item/bold_timeline_item.php:114
+#: content_elements/bold_timeline_item/bold_timeline_item.php:156
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:74
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:37
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:46
+msgid "Normal"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:128
+#: content_elements/bold_timeline_container/bold_timeline_container.php:156
+#: content_elements/bold_timeline_container/bold_timeline_container.php:306
+#: content_elements/bold_timeline_group/bold_timeline_group.php:53
+#: content_elements/bold_timeline_item/bold_timeline_item.php:157
+msgid "Thick"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:131
+msgid "Line color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:132
+#: content_elements/bold_timeline_group/bold_timeline_group.php:65
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:46
+msgid "Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:132
+#: content_elements/bold_timeline_container/bold_timeline_container.php:143
+#: content_elements/bold_timeline_container/bold_timeline_container.php:151
+#: content_elements/bold_timeline_container/bold_timeline_container.php:159
+#: content_elements/bold_timeline_container/bold_timeline_container.php:160
+#: content_elements/bold_timeline_container/bold_timeline_container.php:161
+#: content_elements/bold_timeline_container/bold_timeline_container.php:180
+#: content_elements/bold_timeline_container/bold_timeline_container.php:187
+#: content_elements/bold_timeline_container/bold_timeline_container.php:195
+#: content_elements/bold_timeline_container/bold_timeline_container.php:196
+#: content_elements/bold_timeline_container/bold_timeline_container.php:205
+#: content_elements/bold_timeline_container/bold_timeline_container.php:206
+#: content_elements/bold_timeline_container/bold_timeline_container.php:214
+#: content_elements/bold_timeline_container/bold_timeline_container.php:222
+#: content_elements/bold_timeline_container/bold_timeline_container.php:229
+#: content_elements/bold_timeline_container/bold_timeline_container.php:230
+#: content_elements/bold_timeline_container/bold_timeline_container.php:239
+#: content_elements/bold_timeline_container/bold_timeline_container.php:248
+#: content_elements/bold_timeline_container/bold_timeline_container.php:257
+#: content_elements/bold_timeline_container/bold_timeline_container.php:265
+#: content_elements/bold_timeline_container/bold_timeline_container.php:266
+#: content_elements/bold_timeline_container/bold_timeline_container.php:269
+#: content_elements/bold_timeline_container/bold_timeline_container.php:272
+#: content_elements/bold_timeline_container/bold_timeline_container.php:273
+msgid "Items"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:135
+#: content_elements/bold_timeline_container/bold_timeline_container.php:294
+#: content_elements/bold_timeline_container/bold_timeline_container.php:335
+#: content_elements/bold_timeline_group/bold_timeline_group.php:68
+#: content_elements/bold_timeline_group/bold_timeline_group.php:111
+#: content_elements/bold_timeline_item/bold_timeline_item.php:163
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:52
+msgid "Clear"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:136
+#: content_elements/bold_timeline_container/bold_timeline_container.php:217
+#: content_elements/bold_timeline_container/bold_timeline_container.php:295
+#: content_elements/bold_timeline_container/bold_timeline_container.php:332
+#: content_elements/bold_timeline_container/bold_timeline_container.php:365
+#: content_elements/bold_timeline_group/bold_timeline_group.php:69
+#: content_elements/bold_timeline_group/bold_timeline_group.php:108
+#: content_elements/bold_timeline_item/bold_timeline_item.php:164
+#: content_elements/bold_timeline_item/bold_timeline_item.php:196
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:49
+msgid "Outline"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:137
+#: content_elements/bold_timeline_item/bold_timeline_item.php:165
+msgid "Full outline"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:138
+#: content_elements/bold_timeline_item/bold_timeline_item.php:166
+msgid "Top border"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:139
+#: content_elements/bold_timeline_item/bold_timeline_item.php:167
+msgid "Filled header"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:140
+#: content_elements/bold_timeline_item/bold_timeline_item.php:168
+msgid "Filled header with outline"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:143
+#: content_elements/bold_timeline_group/bold_timeline_group.php:56
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:55
+msgid "Shape"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:146
+#: content_elements/bold_timeline_container/bold_timeline_container.php:211
+#: content_elements/bold_timeline_container/bold_timeline_container.php:285
+#: content_elements/bold_timeline_container/bold_timeline_container.php:341
+#: content_elements/bold_timeline_container/bold_timeline_container.php:373
+#: content_elements/bold_timeline_group/bold_timeline_group.php:59
+#: content_elements/bold_timeline_group/bold_timeline_group.php:117
+#: content_elements/bold_timeline_item/bold_timeline_item.php:179
+#: content_elements/bold_timeline_item/bold_timeline_item.php:206
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:60
+msgid "Square"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:147
+#: content_elements/bold_timeline_container/bold_timeline_container.php:210
+#: content_elements/bold_timeline_container/bold_timeline_container.php:286
+#: content_elements/bold_timeline_container/bold_timeline_container.php:342
+#: content_elements/bold_timeline_container/bold_timeline_container.php:374
+#: content_elements/bold_timeline_group/bold_timeline_group.php:60
+#: content_elements/bold_timeline_group/bold_timeline_group.php:118
+#: content_elements/bold_timeline_item/bold_timeline_item.php:180
+#: content_elements/bold_timeline_item/bold_timeline_item.php:204
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:58
+msgid "Soft rounded"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:148
+#: content_elements/bold_timeline_container/bold_timeline_container.php:209
+#: content_elements/bold_timeline_container/bold_timeline_container.php:287
+#: content_elements/bold_timeline_container/bold_timeline_container.php:343
+#: content_elements/bold_timeline_container/bold_timeline_container.php:375
+#: content_elements/bold_timeline_group/bold_timeline_group.php:61
+#: content_elements/bold_timeline_group/bold_timeline_group.php:119
+#: content_elements/bold_timeline_item/bold_timeline_item.php:181
+#: content_elements/bold_timeline_item/bold_timeline_item.php:205
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:59
+msgid "Hard rounded"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:151
+#: content_elements/bold_timeline_group/bold_timeline_group.php:48
+msgid "Frame thickness"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:159
+#: content_elements/bold_timeline_group/bold_timeline_group.php:97
+msgid "Frame color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:160
+msgid "Background color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:161
+#: content_elements/bold_timeline_container/bold_timeline_container.php:354
+msgid "Animation"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:164
+msgid "No Animation"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:165
+#: content_elements/bold_timeline_item/bold_timeline_item.php:236
+msgid "Fade In"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:166
+#: content_elements/bold_timeline_item/bold_timeline_item.php:237
+msgid "Move Up"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:167
+#: content_elements/bold_timeline_item/bold_timeline_item.php:238
+msgid "Move Left"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:168
+#: content_elements/bold_timeline_item/bold_timeline_item.php:239
+msgid "Move Right"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:169
+#: content_elements/bold_timeline_item/bold_timeline_item.php:240
+msgid "Move Down"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:170
+#: content_elements/bold_timeline_item/bold_timeline_item.php:241
+msgid "Zoom in"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:171
+#: content_elements/bold_timeline_item/bold_timeline_item.php:242
+msgid "Zoom out"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:172
+#: content_elements/bold_timeline_item/bold_timeline_item.php:243
+msgid "Fade In / Move Up"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:173
+#: content_elements/bold_timeline_item/bold_timeline_item.php:244
+msgid "Fade In / Move Left"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:174
+#: content_elements/bold_timeline_item/bold_timeline_item.php:245
+msgid "Fade In / Move Right"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:175
+#: content_elements/bold_timeline_item/bold_timeline_item.php:246
+msgid "Fade In / Move Down"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:176
+#: content_elements/bold_timeline_item/bold_timeline_item.php:247
+msgid "Fade In / Zoom in"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:177
+#: content_elements/bold_timeline_item/bold_timeline_item.php:248
+msgid "Fade In / Zoom out"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:180
+#: content_elements/bold_timeline_group/bold_timeline_group.php:98
+msgid "Content display"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:183
+#: content_elements/bold_timeline_container/bold_timeline_container.php:325
+#: content_elements/bold_timeline_container/bold_timeline_container.php:391
+#: content_elements/bold_timeline_group/bold_timeline_group.php:101
+#: content_elements/bold_timeline_item/bold_timeline_item.php:229
+msgid "Show"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:184
+#: content_elements/bold_timeline_container/bold_timeline_container.php:326
+#: content_elements/bold_timeline_container/bold_timeline_container.php:385
+#: content_elements/bold_timeline_container/bold_timeline_container.php:392
+#: content_elements/bold_timeline_group/bold_timeline_group.php:102
+#: content_elements/bold_timeline_item/bold_timeline_item.php:230
+msgid "Hide"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:187
+msgid "Connector style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:190
+#: content_elements/bold_timeline_container/bold_timeline_container.php:199
+#: content_elements/bold_timeline_container/bold_timeline_container.php:364
+#: content_elements/bold_timeline_item/bold_timeline_item.php:187
+#: content_elements/bold_timeline_item/bold_timeline_item.php:221
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:34
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:43
+msgid "None"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:191
+#: content_elements/bold_timeline_item/bold_timeline_item.php:222
+msgid "Line"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:192
+#: content_elements/bold_timeline_item/bold_timeline_item.php:223
+msgid "Triangle"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:195
+#: content_elements/bold_timeline_item/bold_timeline_item.php:174
+msgid "Connector color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:196
+msgid "Marker style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:200
+#: content_elements/bold_timeline_item/bold_timeline_item.php:188
+msgid "Dot"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:201
+#: content_elements/bold_timeline_container/bold_timeline_container.php:288
+#: content_elements/bold_timeline_container/bold_timeline_container.php:376
+#: content_elements/bold_timeline_group/bold_timeline_group.php:62
+#: content_elements/bold_timeline_item/bold_timeline_item.php:189
+msgid "Circle"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:202
+#: content_elements/bold_timeline_item/bold_timeline_item.php:190
+msgid "Small circle"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:205
+msgid "Marker color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:206
+#: content_elements/bold_timeline_item/bold_timeline_item.php:201
+msgid "Icon shape"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:214
+#: content_elements/bold_timeline_item/bold_timeline_item.php:193
+msgid "Icon style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:218
+#: content_elements/bold_timeline_container/bold_timeline_container.php:296
+#: content_elements/bold_timeline_container/bold_timeline_container.php:333
+#: content_elements/bold_timeline_container/bold_timeline_container.php:366
+#: content_elements/bold_timeline_group/bold_timeline_group.php:70
+#: content_elements/bold_timeline_group/bold_timeline_group.php:109
+#: content_elements/bold_timeline_item/bold_timeline_item.php:197
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:50
+msgid "Filled"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:219
+#: content_elements/bold_timeline_container/bold_timeline_container.php:297
+#: content_elements/bold_timeline_container/bold_timeline_container.php:334
+#: content_elements/bold_timeline_container/bold_timeline_container.php:367
+#: content_elements/bold_timeline_group/bold_timeline_group.php:110
+#: content_elements/bold_timeline_item/bold_timeline_item.php:198
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:51
+msgid "Shadow"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:222
+#: content_elements/bold_timeline_item/bold_timeline_item.php:209
+msgid "Icon position"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:225
+#: content_elements/bold_timeline_item/bold_timeline_item.php:212
+msgid "On the line"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:226
+#: content_elements/bold_timeline_item/bold_timeline_item.php:213
+msgid "Opposite to the line"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:229
+msgid "Icon color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:230
+#: content_elements/bold_timeline_item/bold_timeline_item.php:85
+msgid "Media position"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:233
+#: content_elements/bold_timeline_item/bold_timeline_item.php:88
+msgid "Bottom"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:234
+#: content_elements/bold_timeline_item/bold_timeline_item.php:89
+msgid "Top"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:239
+msgid "Media image gallery columns"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:242
+#: content_elements/bold_timeline_item/bold_timeline_item.php:101
+msgid "One (1)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:243
+#: content_elements/bold_timeline_item/bold_timeline_item.php:102
+msgid "Two (2)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:244
+#: content_elements/bold_timeline_item/bold_timeline_item.php:103
+msgid "Three (3)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:245
+#: content_elements/bold_timeline_item/bold_timeline_item.php:104
+msgid "Four (4)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:248
+#: content_elements/bold_timeline_group/bold_timeline_group.php:84
+#: content_elements/bold_timeline_item/bold_timeline_item.php:109
+msgid "Title size"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:251
+#: content_elements/bold_timeline_container/bold_timeline_container.php:261
+#: content_elements/bold_timeline_container/bold_timeline_container.php:276
+#: content_elements/bold_timeline_container/bold_timeline_container.php:312
+#: content_elements/bold_timeline_container/bold_timeline_container.php:357
+#: content_elements/bold_timeline_group/bold_timeline_group.php:87
+#: content_elements/bold_timeline_item/bold_timeline_item.php:112
+#: content_elements/bold_timeline_item/bold_timeline_item.php:132
+#: content_elements/bold_timeline_item/bold_timeline_item.php:139
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:50
+msgid "Default"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:252
+#: content_elements/bold_timeline_container/bold_timeline_container.php:313
+#: content_elements/bold_timeline_container/bold_timeline_container.php:349
+#: content_elements/bold_timeline_container/bold_timeline_container.php:384
+#: content_elements/bold_timeline_container/bold_timeline_container.php:401
+#: content_elements/bold_timeline_group/bold_timeline_group.php:88
+#: content_elements/bold_timeline_item/bold_timeline_item.php:113
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:73
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:36
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:45
+msgid "Small"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:254
+#: content_elements/bold_timeline_container/bold_timeline_container.php:315
+#: content_elements/bold_timeline_container/bold_timeline_container.php:351
+#: content_elements/bold_timeline_container/bold_timeline_container.php:382
+#: content_elements/bold_timeline_container/bold_timeline_container.php:403
+#: content_elements/bold_timeline_group/bold_timeline_group.php:90
+#: content_elements/bold_timeline_item/bold_timeline_item.php:115
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:75
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:38
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:47
+msgid "Large"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:257
+#: content_elements/bold_timeline_item/bold_timeline_item.php:129
+msgid "Supertitle style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:260
+#: content_elements/bold_timeline_container/bold_timeline_container.php:267
+#: content_elements/bold_timeline_container/bold_timeline_container.php:270
+#: content_elements/bold_timeline_container/bold_timeline_container.php:319
+#: content_elements/bold_timeline_group/bold_timeline_group.php:50
+#: content_elements/bold_timeline_group/bold_timeline_group.php:58
+#: content_elements/bold_timeline_group/bold_timeline_group.php:67
+#: content_elements/bold_timeline_group/bold_timeline_group.php:86
+#: content_elements/bold_timeline_group/bold_timeline_group.php:94
+#: content_elements/bold_timeline_group/bold_timeline_group.php:100
+#: content_elements/bold_timeline_group/bold_timeline_group.php:107
+#: content_elements/bold_timeline_group/bold_timeline_group.php:116
+#: content_elements/bold_timeline_item/bold_timeline_item.php:87
+#: content_elements/bold_timeline_item/bold_timeline_item.php:100
+#: content_elements/bold_timeline_item/bold_timeline_item.php:111
+#: content_elements/bold_timeline_item/bold_timeline_item.php:131
+#: content_elements/bold_timeline_item/bold_timeline_item.php:138
+#: content_elements/bold_timeline_item/bold_timeline_item.php:146
+#: content_elements/bold_timeline_item/bold_timeline_item.php:149
+#: content_elements/bold_timeline_item/bold_timeline_item.php:154
+#: content_elements/bold_timeline_item/bold_timeline_item.php:162
+#: content_elements/bold_timeline_item/bold_timeline_item.php:178
+#: content_elements/bold_timeline_item/bold_timeline_item.php:186
+#: content_elements/bold_timeline_item/bold_timeline_item.php:195
+#: content_elements/bold_timeline_item/bold_timeline_item.php:203
+#: content_elements/bold_timeline_item/bold_timeline_item.php:211
+#: content_elements/bold_timeline_item/bold_timeline_item.php:220
+#: content_elements/bold_timeline_item/bold_timeline_item.php:228
+#: content_elements/bold_timeline_item/bold_timeline_item.php:235
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:48
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:57
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:65
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:72
+msgid "Inherit"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:262
+#: content_elements/bold_timeline_item/bold_timeline_item.php:133
+msgid "Sticker"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:265
+#: content_elements/bold_timeline_item/bold_timeline_item.php:175
+msgid "Sticker color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:266
+#: content_elements/bold_timeline_container/bold_timeline_container.php:318
+#: content_elements/bold_timeline_group/bold_timeline_group.php:93
+#: content_elements/bold_timeline_item/bold_timeline_item.php:145
+msgid "Title font"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:269
+#: content_elements/bold_timeline_item/bold_timeline_item.php:148
+msgid "Body font"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:272
+#: content_elements/bold_timeline_container/bold_timeline_container.php:321
+#: content_elements/bold_timeline_group/bold_timeline_group.php:96
+#: content_elements/bold_timeline_item/bold_timeline_item.php:151
+msgid "Font subset"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:273
+#: content_elements/bold_timeline_item/bold_timeline_item.php:136
+msgid "Item alignment"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:282
+msgid "Group shape"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:282
+#: content_elements/bold_timeline_container/bold_timeline_container.php:291
+#: content_elements/bold_timeline_container/bold_timeline_container.php:300
+#: content_elements/bold_timeline_container/bold_timeline_container.php:301
+#: content_elements/bold_timeline_container/bold_timeline_container.php:309
+#: content_elements/bold_timeline_container/bold_timeline_container.php:318
+#: content_elements/bold_timeline_container/bold_timeline_container.php:321
+#: content_elements/bold_timeline_container/bold_timeline_container.php:322
+msgid "Groups"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:291
+msgid "Group style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:300
+msgid "Group frame color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:301
+msgid "Group frame thickness"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:309
+msgid "Group title size"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:322
+msgid "Group content display"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:329
+msgid "Buttons style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:329
+#: content_elements/bold_timeline_container/bold_timeline_container.php:338
+#: content_elements/bold_timeline_container/bold_timeline_container.php:346
+msgid "Buttons"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:338
+msgid "Buttons shape"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:346
+msgid "Buttons size"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:354
+msgid "If fade is selected, number of slides to show will be 1"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:354
+#: content_elements/bold_timeline_container/bold_timeline_container.php:361
+#: content_elements/bold_timeline_container/bold_timeline_container.php:370
+#: content_elements/bold_timeline_container/bold_timeline_container.php:379
+#: content_elements/bold_timeline_container/bold_timeline_container.php:388
+#: content_elements/bold_timeline_container/bold_timeline_container.php:395
+#: content_elements/bold_timeline_container/bold_timeline_container.php:396
+#: content_elements/bold_timeline_container/bold_timeline_container.php:397
+#: content_elements/bold_timeline_container/bold_timeline_container.php:406
+msgid "Sliders"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:358
+msgid "Fade"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:361
+msgid "Navigation arrows style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:370
+msgid "Navigation arrows shape"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:379
+msgid "Navigation arrows size"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:388
+msgid "Dots navigation"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:395
+msgid "Number of slides to show"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:395
+msgid "e.g. 2"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:396
+msgid "Slider Autoplay interval (ms)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:396
+msgid "e.g. 2000"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:397
+msgid "Slider Horizontal Gap"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:400
+msgid "No gap"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:406
+msgid "Slider navigation color"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:407
+#: content_elements/bold_timeline_group/bold_timeline_group.php:123
+#: content_elements/bold_timeline_item/bold_timeline_item.php:251
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:79
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:91
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:50
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:31
+msgid "Custom Id Attribute"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:407
+#: content_elements/bold_timeline_container/bold_timeline_container.php:408
+#: content_elements/bold_timeline_container/bold_timeline_container.php:409
+#: content_elements/bold_timeline_container/bold_timeline_container.php:410
+#: content_elements/bold_timeline_group/bold_timeline_group.php:123
+#: content_elements/bold_timeline_group/bold_timeline_group.php:124
+#: content_elements/bold_timeline_group/bold_timeline_group.php:125
+#: content_elements/bold_timeline_item/bold_timeline_item.php:251
+#: content_elements/bold_timeline_item/bold_timeline_item.php:252
+#: content_elements/bold_timeline_item/bold_timeline_item.php:253
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:79
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:80
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:81
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:91
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:92
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:93
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:50
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:51
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:52
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:31
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:32
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:33
+msgid "Custom"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:408
+#: content_elements/bold_timeline_group/bold_timeline_group.php:124
+#: content_elements/bold_timeline_item/bold_timeline_item.php:252
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:80
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:92
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:51
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:32
+msgid "Extra Class Name(s)"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:409
+msgid "Extra CSS"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:409
+msgid "Use #this to select this element (e.g. #this { color: white; })"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:410
+#: content_elements/bold_timeline_group/bold_timeline_group.php:125
+#: content_elements/bold_timeline_item/bold_timeline_item.php:253
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:81
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:93
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:52
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:33
+msgid "Inline Style"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:411
+#: content_elements/bold_timeline_group/bold_timeline_group.php:126
+#: content_elements/bold_timeline_item/bold_timeline_item.php:254
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:82
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:94
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:53
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:34
+msgid "Hide element on screens"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:411
+#: content_elements/bold_timeline_group/bold_timeline_group.php:126
+#: content_elements/bold_timeline_item/bold_timeline_item.php:254
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:82
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:94
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:53
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:34
+msgid "Responsive"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:413
+#: content_elements/bold_timeline_group/bold_timeline_group.php:128
+#: content_elements/bold_timeline_item/bold_timeline_item.php:256
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:84
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:96
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:55
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:36
+msgid "≤480px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:414
+#: content_elements/bold_timeline_group/bold_timeline_group.php:129
+#: content_elements/bold_timeline_item/bold_timeline_item.php:257
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:85
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:97
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:56
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:37
+msgid "480-767px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:415
+#: content_elements/bold_timeline_group/bold_timeline_group.php:130
+#: content_elements/bold_timeline_item/bold_timeline_item.php:258
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:86
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:98
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:57
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:38
+msgid "768-991px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:416
+#: content_elements/bold_timeline_group/bold_timeline_group.php:131
+#: content_elements/bold_timeline_item/bold_timeline_item.php:259
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:87
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:99
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:58
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:39
+msgid "992-1200px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:417
+#: content_elements/bold_timeline_group/bold_timeline_group.php:132
+#: content_elements/bold_timeline_item/bold_timeline_item.php:260
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:88
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:100
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:59
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:40
+msgid "≥1200px"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:421
+msgid "Timeline"
+msgstr ""
+
+#: content_elements/bold_timeline_container/bold_timeline_container.php:421
+msgid "Timeline container"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:73
+#: content_elements/bold_timeline_item/bold_timeline_item.php:118
+msgid "Title tag"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:73
+#: content_elements/bold_timeline_group/bold_timeline_group.php:93
+#: content_elements/bold_timeline_group/bold_timeline_group.php:96
+#: content_elements/bold_timeline_item/bold_timeline_item.php:109
+#: content_elements/bold_timeline_item/bold_timeline_item.php:118
+#: content_elements/bold_timeline_item/bold_timeline_item.php:145
+#: content_elements/bold_timeline_item/bold_timeline_item.php:148
+#: content_elements/bold_timeline_item/bold_timeline_item.php:151
+msgid "Typography"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:75
+#: content_elements/bold_timeline_item/bold_timeline_item.php:120
+msgid "H1"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:76
+#: content_elements/bold_timeline_item/bold_timeline_item.php:121
+msgid "H2"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:77
+#: content_elements/bold_timeline_item/bold_timeline_item.php:122
+msgid "H3"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:78
+#: content_elements/bold_timeline_item/bold_timeline_item.php:123
+msgid "H4"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:79
+#: content_elements/bold_timeline_item/bold_timeline_item.php:124
+msgid "H5"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:80
+#: content_elements/bold_timeline_item/bold_timeline_item.php:125
+msgid "H6"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:81
+#: content_elements/bold_timeline_item/bold_timeline_item.php:126
+msgid "DIV"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:84
+#: content_elements/bold_timeline_group/bold_timeline_group.php:97
+#: content_elements/bold_timeline_item/bold_timeline_item.php:129
+#: content_elements/bold_timeline_item/bold_timeline_item.php:136
+#: content_elements/bold_timeline_item/bold_timeline_item.php:152
+#: content_elements/bold_timeline_item/bold_timeline_item.php:160
+#: content_elements/bold_timeline_item/bold_timeline_item.php:171
+#: content_elements/bold_timeline_item/bold_timeline_item.php:172
+#: content_elements/bold_timeline_item/bold_timeline_item.php:173
+#: content_elements/bold_timeline_item/bold_timeline_item.php:174
+#: content_elements/bold_timeline_item/bold_timeline_item.php:175
+#: content_elements/bold_timeline_item/bold_timeline_item.php:176
+#: content_elements/bold_timeline_item/bold_timeline_item.php:184
+#: content_elements/bold_timeline_item/bold_timeline_item.php:193
+#: content_elements/bold_timeline_item/bold_timeline_item.php:201
+#: content_elements/bold_timeline_item/bold_timeline_item.php:209
+#: content_elements/bold_timeline_item/bold_timeline_item.php:216
+#: content_elements/bold_timeline_item/bold_timeline_item.php:217
+#: content_elements/bold_timeline_item/bold_timeline_item.php:218
+#: content_elements/bold_timeline_item/bold_timeline_item.php:226
+#: content_elements/bold_timeline_item/bold_timeline_item.php:233
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:78
+msgid "Properties"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:105
+msgid "Show more button style"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:114
+msgid "Show more button shape"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:122
+msgid "Buton color"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:136
+msgid "Timeline Group"
+msgstr ""
+
+#: content_elements/bold_timeline_group/bold_timeline_group.php:136
+msgid "Timeline group"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:81
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:61
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:68
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:75
+msgid "Supertitle"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:83
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:62
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:69
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:76
+msgid "Subtitle"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:84
+msgid "Icon"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:85
+#: content_elements/bold_timeline_item/bold_timeline_item.php:94
+#: content_elements/bold_timeline_item/bold_timeline_item.php:95
+#: content_elements/bold_timeline_item/bold_timeline_item.php:98
+#: content_elements/bold_timeline_item/bold_timeline_item.php:107
+#: content_elements/bold_timeline_item/bold_timeline_item.php:108
+msgid "Media"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:94
+msgid "Images"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:95
+msgid "Image size"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:98
+msgid "Image gallery columns"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:107
+msgid "Audio"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:108
+msgid "Video"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:152
+msgid "Item frame thickness"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:160
+msgid "Item style"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:171
+msgid "Item frame color"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:172
+msgid "Item background color"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:173
+msgid "Item text color"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:176
+msgid "Item shape"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:184
+msgid "Line marker style"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:216
+msgid "Item icon color"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:217
+msgid "Item marker color"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:218
+msgid "Item connection style"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:226
+msgid "Item content display"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:233
+msgid "Item animation"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:264
+msgid "Timeline Item"
+msgstr ""
+
+#: content_elements/bold_timeline_item/bold_timeline_item.php:264
+msgid "Timeline item"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:37
+msgid "Button"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:37
+msgid "Button element"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:39
+msgid "URL"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:40
+msgid "URL target"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:42
+msgid "Self (open in same tab)"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:43
+msgid "Blank (open in new tab)"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:63
+msgid "Width"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:66
+msgid "Full"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:67
+msgid "Adapt to title"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:70
+msgid "Size"
+msgstr ""
+
+#: content_elements/bold_timeline_item_button/bold_timeline_item_button.php:78
+msgid "Color"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:42
+msgid "Timeline Item Posts"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:42
+msgid "Timeline Item Posts filter element"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:43
+msgid "Category filter"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:43
+msgid "Type Post Category slugs separated by comma (eg sport, business)"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:43
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:44
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:45
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:46
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:47
+msgid "Posts"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:44
+msgid "Post format filter"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:44
+msgid ""
+"Type Post Filter Format separated by comma (eg post-format-video, post-"
+"format-audio)"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:45
+msgid "Taxonomy filter"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:45
+msgid ""
+"Type /taxonomy:slug1,slug2/ separated by semicolon (eg tag:highlight,michael-"
+"jackson;custom-taxonomy:slug1,slug2)"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:46
+msgid "Post author username"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:46
+msgid "Type Author username (eg: martin)"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:47
+msgid "Date filter"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:47
+msgid "Type strtotime()-compatible string (eg 7 days ago, 1 month ago)"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:48
+msgid "Order by"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:51
+msgid "Post date ascending"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:52
+msgid "Comment count descending"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:53
+msgid "Post views descending"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:54
+msgid "Random"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:57
+msgid "Number of items"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:57
+msgid "Enter number of items or leave empty to show all (up to 1000)"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:57
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:58
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:65
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:72
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:79
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:85
+msgid "Design"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:58
+msgid "Show date"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:60
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:67
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:74
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:81
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:87
+msgid "No"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:65
+msgid "Show categories"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:72
+msgid "Show comments"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:79
+msgid "Show excerpt"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:82
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:88
+msgid "Yes"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:85
+msgid "Show featured image"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:287
+msgid "One comment"
+msgstr ""
+
+#: content_elements/bold_timeline_item_posts/bold_timeline_item_posts.php:287
+msgid "comments"
+msgstr ""
+
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:31
+msgid "Separator"
+msgstr ""
+
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:31
+msgid "Separator element"
+msgstr ""
+
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:32
+msgid "Top margin"
+msgstr ""
+
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:35
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:44
+msgid "Extra small"
+msgstr ""
+
+#: content_elements/bold_timeline_item_separator/bold_timeline_item_separator.php:41
+msgid "Bottom margin"
+msgstr ""
+
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:29
+msgid "Text"
+msgstr ""
+
+#: content_elements/bold_timeline_item_text/bold_timeline_item_text.php:29
+msgid "Text element"
+msgstr ""

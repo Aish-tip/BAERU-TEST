@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="assets/Favicon-Tip.png" type="image/png">
+        
+        <link href="https://fonts.googleapis.com/css?family=Oswald|Playfair+Display" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+        <!-- <link href='https://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'> -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet"> -->
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500;600;700;800;900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+        <!-- <link rel='stylesheet' href='http://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css'> -->
+        <link rel="stylesheet" href="./assets/css/style.css">
+
+        <!-- Latest compiled JavaScript -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <title>Baeru Coast Clear</title>
+        <style>
+            ::-webkit-scrollbar {
+                    width: 0;  /* remove scrollbar space */
+                    background: transparent;  /* optional: just make scrollbar invisible */
+                }
+                .desk-div{
+                    width: 100%;
+                    height: 110vh;
+                    background-image: url("./assets/baeru-assets/careers.jpg");
+                    background-position: bottom;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                }                
+                .box {
+                    width: 20%;
+                    height: 60%;
+                    position: absolute;
+                    top: 18%;
+                    left: 12%;
+                    opacity: 1;
+                }
+                .box1 {
+                    width: 70%;
+                    height: 75%;
+                    position: absolute;
+                    top: 20%;
+                    left: 16%;
+                    opacity: 1;
+                }
+            .stack-top{
+                z-index: 9;
+                margin: 5% 5%;
+            }
+            .contact-form{           
+                color: #000000;
+                /* position: absolute; */
+                top: 15%;
+                /* left: 11%; */
+                width: 84%;
+                display: block;
+                margin: 7% auto;
+            }
+            .contact-form h6{
+                color:#000000;
+            }
+            .contact-form .row{
+                width: 100%;
+            }
+            .contact-form .col-6{
+                margin-top: 5%;
+            }
+            input[type=text]{
+                border: none;
+                border-bottom: 2px solid black;
+                width: 100%;
+            }
+            select{
+                border: none;
+                border-bottom: 2px solid black;
+                width: 100%;
+            }
+            input[type=number]{
+                border: none;
+                border-bottom: 2px solid black;
+                width: 100%;
+            }
+            input[type=text]::-webkit-input-placeholder{
+                    color:#A4A4A4;
+                }
+                input[type=number]::-webkit-input-placeholder{
+                    color:#A4A4A4;
+                }
+            .overlay-div{
+                color: #ffffff;
+                position: absolute;
+                top: 50%;
+                -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+            }
+            .overlay-div h6{
+                text-align:center;
+            }
+            .email-div{
+                margin-top: 15%;
+            }
+            .email-div img{
+                width: 15%;
+                display: block;
+                margin: 0 auto;
+            }
+            .email-div p{
+                text-align: center;
+            }
+            .phone-div{
+                margin-top: 15%;
+            }
+            .phone-div img{
+                width: 15%;
+                display: block;
+                margin: 0 auto;
+            }
+            .phone-div p{
+                text-align: center;
+            }
+            input::-webkit-input-placeholder { 
+                 padding-left: 5%;
+                 color :#000000;
+                 font-family: 'Montserrat', sans-serif;
+            }
+            input[type=submit]{
+                background: #0FA3BD;
+                padding: 1% 5%;
+                /* border-radius: 9%; */
+                margin-top: 3%;
+                border: none;
+                color: #ffffff;
+                font-weight: 700;
+            }
+            input:focus { 
+                background-color: transparent;
+            }
+            input:focus-visible { 
+                background-color: transparent;
+                outline: none;
+            }
+            input.visited { 
+                background-color: transparent;
+            } 
+            @media only screen and (max-width:1024px){
+                .box1{
+                    height:85%;
+                }
+            }
+            @media(max-width:678px){
+                .mob-div{
+                    width: 100%;
+                    height: 100vh;
+                    /* background: linear-gradient(to bottom,
+                    #DE8F6E 0%,
+                    #DE8F6E 50%,
+                    #006666 50%,
+                    #006666 100%
+                    ); */
+                    background-image: url("./assets/phone career.jpg");
+                    background-size: cover;
+                    background-position: top;
+                    background-repeat: no-repeat;
+                }
+                .box {
+                    width: 60%;
+                    height: 30%;
+                    position: absolute;
+                    top: 15%;
+                    left: 14%;
+                    opacity: 1;
+                    /* display: none; */
+                }
+                .box1 {
+                    width: 80%;
+                    height: 75%;
+                    position: absolute;
+                    top: 15%;
+                    left: 10%;
+                    opacity: 1;
+                }
+            .stack-top{
+                z-index: 1;
+                margin: 5% 5%;
+            }
+            .contact-form{
+                color:#000000;
+                position: absolute;
+                top: 5%;
+                left: 12%;
+                width: 97%;
+                /* margin-top: 7%;
+                margin-left: 25%; */
+            }
+            .contact-form h6{
+                color:#000000;
+                font-weight: 600;
+                font-size: 20px;
+            }
+            .contact-form .row{
+                width: 100%;
+                margin-bottom: 5%;
+            }
+            .contact-form .col-6{
+                margin-top: 5%;
+            }
+            .contact-form label{
+                font-size:15px;
+            }
+            input[type=text]{
+                border: none;
+                border-bottom: 2px solid black;
+                width: 85%;
+                margin-bottom: 5%;
+            }
+            select{
+                border: none;
+                border-bottom: 2px solid black;
+                width: 85%;
+                margin-bottom: 5%;
+            }
+            input[type=text]::-webkit-input-placeholder{
+                color:#a4a4a4;
+            }
+            input[type=number]::-webkit-input-placeholder{
+                color:#a4a4a4;
+            }
+            input[type=number]{
+                border: none;
+                border-bottom: 2px solid black;
+                width: 85%;
+                margin-bottom: 5%;
+            }
+            .overlay-div{
+                color: #ffffff;
+                position: absolute;
+                top: 50%;
+                -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+                left: 0%;
+            }
+            .overlay-div h6{
+                text-align:center;
+            }
+            .email-div{
+                margin-top: 0%;
+            }
+            .email-div img{
+                width: 15%;
+                display: block;
+                margin: 0 auto;
+            }
+            .email-div p{
+                text-align: center;
+            }
+            .phone-div{
+                margin-top: 0%;
+            }
+            .phone-div img{
+                width: 15%;
+                display: block;
+                margin: 0 auto;
+            }
+            .phone-div p{
+                text-align: center;
+            }
+            input::-webkit-input-placeholder { 
+                 padding-left: 5%;
+                 color :#000000;
+                 font-family: 'Montserrat', sans-serif;
+            }
+            input[type=submit]{
+                background: #0FA3BD;
+                padding: 5% 15%;
+                /* border-radius: 9%; */
+                margin-top: 3%;
+                border: none;
+                color: #ffffff;
+                font-weight: 700;
+            }
+            input:focus { 
+                background-color: transparent;
+            }
+            input:focus-visible { 
+                background-color: transparent;
+                outline: none;
+            }
+            input.visited { 
+                background-color: transparent;
+            } 
+            }
+            @media only screen and (device-width:912px) and (device-height:1368px){
+                .desk{
+                    display:none;
+                }
+                .mob{
+                    display:block
+                }
+                .mob-div{
+                    width: 100%;
+                    height: 80vh;
+                    background-image: url("./assets/phone career.jpg");
+                    background-size: cover;
+                    background-position: top;
+                    background-repeat: no-repeat;
+                }
+                .contact-form h6{
+                    color:#000000;
+                    font-weight: 600;
+                    font-size: 25px;
+                }
+                .contact-form label{
+                    font-size:20px;
+                }
+                input[type=text]{
+                    border: none;
+                    border-bottom: 2px solid black;
+                    width: 85%;
+                    margin-bottom: 5%;
+                }
+                input[type=text]::-webkit-input-placeholder{
+                    color:#D3D3D3;
+                }
+                input[type=number]::-webkit-input-placeholder{
+                    color:#D3D3D3;
+                }
+                input[type=number]{
+                    border: none;
+                    border-bottom: 2px solid black;
+                    width: 85%;
+                    margin-bottom: 5%;
+                }
+                .desk-div{
+                    width: 100%;
+                    height: 75vh;
+                } 
+                .box {
+                    width: 25%;
+                    height: 30%;
+                    position: absolute;
+                    top: 25%;
+                    left: 0;
+                    opacity: 1;
+                }
+                .box1 {
+                    width: 80%;
+                    height: 45%;
+                    position: absolute;
+                    top: 20%;
+                    left: 13%;
+                    opacity: 1;
+                }
+            }
+            @media only screen and (device-width:820px) and (device-height:1180px) and (-webkit-device-pixel-ratio:2){
+                .desk{
+                    display:none;
+                }
+                .mob{
+                    display:block
+                }
+                .mob-div{
+                    width: 100%;
+                    height: 90vh;
+                    background-image: url("./assets/phone career.jpg");
+                    background-size: cover;
+                    background-position: top;
+                    background-repeat: no-repeat;
+                }
+                .contact-form h6{
+                    color:#000000;
+                    font-weight: 600;
+                    font-size: 25px;
+                }
+                .contact-form label{
+                    font-size:20px;
+                }
+                input[type=text]{
+                    border: none;
+                    border-bottom: 2px solid black;
+                    width: 85%;
+                    margin-bottom: 5%;
+                }
+                select{
+                    border: none;
+                    border-bottom: 2px solid black;
+                    width: 85%;
+                    margin-bottom: 5%;
+                }
+                input[type=text]::-webkit-input-placeholder{
+                    color:#A4A4A4;
+                }
+                input[type=number]::-webkit-input-placeholder{
+                    color:#A4A4A4;
+                }
+                input[type=number]{
+                    border: none;
+                    border-bottom: 2px solid black;
+                    width: 85%;
+                    margin-bottom: 5%;
+                }
+                .box {
+                    width: 25%;
+                    height: 41%;
+                    position: absolute;
+                    top: 21%;
+                    left: 0%;
+                    opacity: 1;
+                    /* display: none; */
+                }
+                .box1 {
+                    width: 80%;
+                    height: 65%;
+                    position: absolute;
+                    top: 20%;
+                    left: 10%;
+                    opacity: 1;
+                }
+            }
+            @media only screen and (device-width:768px) and (device-height:1024px){
+                .mob-div{
+                    width: 100%;
+                    height: 90vh;
+                    background-image: url("./assets/phone career.jpg");
+                    background-size: cover;
+                    background-position: top;
+                    background-repeat: no-repeat;
+                }
+                .contact-form h6{
+                    color:#000000;
+                    font-weight: 600;
+                    font-size: 25px;
+                }
+                .contact-form label{
+                    font-size:20px;
+                }
+                input[type=text]{
+                    border: none;
+                    border-bottom: 2px solid black;
+                    width: 85%;
+                    margin-bottom: 5%;
+                }
+                input[type=text]::-webkit-input-placeholder{
+                    color:#A4A4A4;
+                }
+                input[type=number]::-webkit-input-placeholder{
+                    color:#A4A4A4;
+                }
+                input[type=number]{
+                    border: none;
+                    border-bottom: 2px solid black;
+                    width: 85%;
+                    margin-bottom: 5%;
+                }
+                .box {
+                    width: 25%;
+                    height: 45%;
+                    position: absolute;
+                    top: 23%;
+                    left: 0;
+                    opacity: 1;
+                }
+                .box1 {
+                    width: 80%;
+                    height: 60%;
+                    position: absolute;
+                    top: 20%;
+                    left: 10%;
+                    opacity: 1;
+                }
+                input[type=submit] {
+                    background: #006666;
+                    padding: 3% 10%;
+                    margin-top: 3%;
+                    border: none;
+                    color: #ffffff;
+                    font-weight: 700;
+                }
+            }
+            @media (max-width:540px){
+                .mob-div{
+                    height: 140vh;
+                }
+                .box1{
+                    height:105%;
+                }
+                .contact-form{
+                    left:8%;
+                }
+
+            }
+            @media only screen and (device-width : 375px) and (device-height : 667px) and (-webkit-device-pixel-ratio : 2){
+                .mob-div{
+                    height: 125vh;
+                }
+                .box1{
+                    height:100%;
+                }
+            }
+            
+            @media (max-width: 360px){
+                .mob-div{
+                    height: 108vh;
+                }
+                .box1{
+                    height:85%;
+                }
+            }
+            @media (max-width: 320px) {
+                .contact-form h6 {
+                    color: #000000;
+                    font-weight: 600;
+                    font-size: 16px;
+                }
+                .mob-div {
+                    height: 126vh;
+                }
+                .box1 {
+                    height: 100%;
+                }
+                input[type=text]{
+                    width: 100%;
+                }
+                input[type=number]{
+                    width:100%;
+                }
+                select{
+                    width:100%;
+                }
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div class="desk">
+            <div class="desk-div">
+                <div class="header">
+                    <header>
+                        <nav id="navbr" class="navbar navbar-expand-lg navbar-dark">
+                            <a class="navbar-brand" href="">
+                                <img class="logo" src="./assets/Baeru_Logo (1).png" alt="logo">
+                            </a>				
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <ul class="navbar-nav ml-auto">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="index.html">HOME <span class="sr-only">(current)</span></a>
+                                    </li> 
+                                    <li class="nav-item">
+									    <a class="nav-link" href="./our-team/our-team.html">TEAM</a>
+								    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="https://gcproductions.in/Baeru/blogs">BLOGS</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link active" href="career.html">CAREER</a>
+                                    </li>
+                                     <li class="nav-item">
+                                        <a class="nav-link" href="contact.html">CONTACT US</a>
+                                    </li>	
+                                </ul>					
+                            </div>
+                        </nav>
+                    </header>					
+                    <script>
+                        document.addEventListener('scroll', ()=>{
+                            const header = document.querySelector('header');
+    
+                            if(window.scrollY > 0){
+                                header.classList.add('scrolled');
+                            }
+                            else{
+                                header.classList.remove('scrolled');
+                            }
+                        })
+                        // const timeout = setTimeout(myScroll, 3000);
+                        // function myScroll(){
+                        // 	console.log("scrolling stops")
+                        // }
+                        const onScrollStop = callback => {
+                        let isScrolling;
+                        window.addEventListener(
+                            'scroll',
+                            e => {
+                            clearTimeout(isScrolling);
+                            isScrolling = setTimeout(() => {
+                                callback();
+                            }, 150);
+                            },
+                            false
+                        );
+                        };
+                        onScrollStop(() => {
+                        //   console.log('The user has stopped scrolling');
+                        const header = document.querySelector('header');
+                        header.classList.remove('scrolled');
+    
+                        });					
+                    </script>
+                </div>	
+                <div class="sticky-container">
+                    <ul class="sticky">
+                        <li><a href="https://www.facebook.com/baeruenvironment" target="_blank">
+                            <img width="32" height="32" title="" alt="facebook" src="./assets/fb.png" />
+                            <!-- <p>Facebook</p>  -->
+                            </a>
+                          </li>
+                          <li><a href="https://www.instagram.com/baeru_environment/" target="_blank">
+                            <img width="32" height="32" title="" alt="instagram" src="./assets/insta.png" />
+                            <!-- <p>Instagram</p> -->
+                        </a>
+                          </li>
+                          <li><a href="https://www.linkedin.com/company/baeru/" target="_blank">
+                            <img width="32" height="32" title="" alt="linkeden" src="./assets/linkden.png" />
+                            <!-- <p>Linkedin</p> -->
+                         </a>
+                          </li>
+                          <li><a href="https://twitter.com/BaeruCoastClear" target="_blank">
+                            <img width="35" height="35" title="" alt="twitter" src="./assets/twiter.png" />
+                            <!-- <p>Twitter</p> -->
+                        </a>
+                          </li>
+                    </ul>
+                </div>
+                <div class="box1" style="background: #ffffff;">
+                    <div class="contact-form">
+                        <h6>TO JOIN US, PLEASE COMPLETE THE FORM</h6>                        
+                        <form action="careeremail.php" method="post" class="form_desk en" style="margin: 0 auto; width: 100%; font-family: 'oswald', serif;">
+                            <!-- <h2>CONTACT US:</h2> -->
+                            <div class="row">
+                                <div class="col-6">
+                                    <label for="fname">First Name</label> <br>
+                                    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                                </div>
+                                <div class="col-6">
+                                    <label for="lname">Last Name</label> <br>
+                                    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-6">
+                                    <label for="email">Email</label> <br>
+                                    <input type="text" id="email" name="email" placeholder="Your email..">
+                                </div>
+                                <div class="col-6">
+                                    <label for="mobile">Mobile Number</label> <br>
+                                    <input type="number" id="mobile" name="mobile" placeholder="Your mobile number..">
+                                </div>
+                            </div>    
+                            <div class="row">
+                                <div class="col-6">
+                                    <label for="job">Select Job Role</label><br>
+                                    <select name="job_role" required>
+                                        <option>Select Job Category</option>
+                                        <option value="project manager">Project Manager</option>
+                                        <option value="supervisor">Supervisor</option>
+                                        <option value="communication manager">Communication Manager</option>
+                                        <option value="accounts team">Accounts Team</option>
+                                    </select>
+                                </div>
+                                <div class="col-6">
+                                    <label for="message">Why would you like this position?</label>
+                                    <input type="text" id="message" name="message" placeholder="Why would you like this position?">
+                                </div>
+                            </div>                 
+                            <input name="submit" type="submit" value="Submit">
+                        </form>
+                    </div>                
+                </div>
+            </div>            
+            <div class="container-fluid footer">
+				<div class="row">
+					<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+				 		<p style="color:#000">IMPACT PARTNERS </p>
+				 	</div>
+                    <div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">							   
+                        <img src="./assets/Baeru Footer logos/nsrcel.png" width="125px" style="padding: 8px;"/>
+                        <img src="./assets/Baeru Footer logos/capgemini.png" width="125px" style="padding: 8px;"/>						
+                        <img src="./assets/Baeru Footer logos/smeclimatehub.png" width="125px" style="padding: 8px;"/>
+                        <img src="./assets/Baeru Footer logos/theclimaterealityproject.png" width="125px" style="padding: 8px;"/>
+                        <img src="./assets/Baeru Footer logos/GOK logo.png" width="125px" style="padding: 8px;"/>
+                    </div>
+				</div>
+				<div class="row">
+				    <div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+						<p style="color:#000">AWARDS & RECOGNITION </p>
+					</div>
+					<div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">	
+                        <img src="./assets/Baeru Footer logos/united nations global compact.png" width="125px" style="padding: 8px;"/> 
+                        <img src="./assets/Baeru Footer logos/unescogreencitizen.png" width="125px" style="padding: 8px;"/>
+                        <img src="./assets/Baeru Footer logos/unwomen.png" width="125px" style="padding: 8px;"/>
+                        <!-- <img src="./assets/Baeru Footer logos/kwaa.png" width="125px" style="padding: 8px;"/> -->						
+                        <img src="./assets/Baeru Footer logos/wep.png" width="125px" style="padding: 8px;"/>
+                        <img src="./assets/Baeru Footer logos/kwaa.png" width="125px" style="padding: 8px;"/>
+					</div>
+				</div>			
+            </div>            
+        </div>
+        <div class="mob">
+            <div class="mob-div">
+                <nav id="navbr_mob" class="navbar navbar-expand-lg navbar-light bg-light" style="position: fixed; width:100%; z-index:5;transition: top 0.3s;padding-right: 5%; padding-left: 5%;">
+                    <a class="navbar-brand" href="">BAERU COASTAL</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="index.html">HOME</a>
+                            </li> 
+                            <li class="nav-item">
+								<a class="nav-link" href="./our-team/our-team.html">TEAM</a>
+							</li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://gcproductions.in/Baeru/blogs">BLOGS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="career.html">CAREER</a>
+                            </li>
+                             <li class="nav-item">
+                                <a class="nav-link" href="contact.html">CONTACT US</a>
+                            </li>	
+                        </ul>
+                    </div>
+                    <script>
+                        $('.navbar-nav>li>a').on('click', function(){
+                            $('.navbar-collapse').collapse('hide');
+                        });
+                    </script>						
+                </nav>
+                <div class="sticky-container">
+                    <ul class="sticky">
+                        <li><a href="https://www.facebook.com/baeruenvironment" target="_blank">
+                                <img width="32" height="32" title="" alt="facebook" src="./assets/fb.png" />
+                                <!-- <p>Facebook</p>  -->
+                            </a>
+                        </li>
+                        <li><a href="https://www.instagram.com/baeru_environment/" target="_blank">
+                                <img width="32" height="32" title="" alt="instagram" src="./assets/insta.png" />
+                                <!-- <p>Instagram</p> -->
+                            </a>
+                        </li>
+                        <li><a href="https://www.linkedin.com/company/baeru/" target="_blank">
+                                <img width="32" height="32" title="" alt="linkeden" src="./assets/linkden.png" />
+                                <!-- <p>Linkedin</p> -->
+                            </a>
+                        </li>
+                        <li><a href="https://twitter.com/BaeruCoastClear" target="_blank">
+                                <img width="35" height="35" title="" alt="twitter" src="./assets/twiter.png" />
+                                <!-- <p>Twitter</p> -->
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="box1" style="background: #ffffff;">                    
+                    <div class="contact-form">
+                        <h6>TO JOIN US, PLEASE COMPLETE THE FORM</h6> 
+                        <!-- <h6>Send a Message</h6> -->
+                        <form action="careeremail.php" method="post">
+                            <div class="row">
+                                <div class="col-12">
+                                    <label for="fname">First Name</label> <br>
+                                    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-12">
+                                    <label for="lname">Last Name</label> <br>
+                                    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-12">
+                                    <label for="fname">Email</label> <br>
+                                    <input type="text" id="email" name="email" placeholder="Your email..">
+                                </div>                                
+                            </div>  
+                            <div class="row">
+                                <div class="col-12">
+                                    <label for="mobile">Mobile Number</label> <br>
+                                    <input type="number" id="mobile" name="mobile" placeholder="Your mobile number..">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-12">
+                                    <label for="job">Select Job Role</label><br>
+                                    <select name="job_role" required>
+                                        <option>Select Job Category</option>
+                                        <option value="project manager">Project Manager</option>
+                                        <option value="supervisor">Supervisor</option>
+                                        <option value="communication manager">Communication Manager</option>
+                                        <option value="accounts team">Accounts Team</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-12">
+                                    <label for="message">Why would you like this position?</label>
+                                    <input type="text" id="message" name="message" placeholder="Why would you like this position?">
+                                </div>
+                            </div>                   
+                            <input type="submit" value="Submit">
+                        </form>
+                    </div>                
+                </div>
+            </div>
+            <div class="container-fluid footer">
+				<div class="row">
+					<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+				 		<p style="color:#000">IMPACT PARTNERS </p>
+				 	</div>
+				    <div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">							   
+						<img src="./assets/Baeru Footer logos/nsrcel.png" width="125px" style="padding: 8px;"/>
+						<img src="./assets/Baeru Footer logos/capgemini.png" width="125px" style="padding: 8px;"/>						
+						<img src="./assets/Baeru Footer logos/smeclimatehub.png" width="125px" style="padding: 8px;"/>
+						<img src="./assets/Baeru Footer logos/theclimaterealityproject.png" width="125px" style="padding: 8px;"/>
+						<img src="./assets/Baeru Footer logos/GOK logo.png" width="125px" style="padding: 8px;"/>
+					</div>
+				</div>
+				<div class="row">
+					<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+						<p style="color:#000">AWARDS & RECOGNITION </p>
+					</div>
+					<div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">	
+				 	    <img src="./assets/Baeru Footer logos/united nations global compact.png" width="125px" style="padding: 8px;"/> 
+						<img src="./assets/Baeru Footer logos/unescogreencitizen.png" width="125px" style="padding: 8px;"/>
+						<img src="./assets/Baeru Footer logos/unwomen.png" width="125px" style="padding: 8px;"/>
+						<!-- <img src="./assets/Baeru Footer logos/kwaa.png" width="125px" style="padding: 8px;"/> -->						
+						<img src="./assets/Baeru Footer logos/wep.png" width="125px" style="padding: 8px;"/>
+						<img src="./assets/Baeru Footer logos/kwaa.png" width="125px" style="padding: 8px;"/>
+					</div>
+				</div>			
+			</div>
+        </div>        
+    </body>
+</html>

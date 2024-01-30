@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="assets/favicon.png" type="image/png">
+	<link href="https://fonts.googleapis.com/css?family=Oswald|Playfair+Display" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<!-- <link href='https://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'> -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet"> -->
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500;600;700;800;900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+	<link rel='stylesheet' href='http://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.3/animate.min.css'>
+	<link rel="stylesheet" href="./assets/css/style.css">
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<title>Baeru Coast Clear</title>
+	<style>
+		::-webkit-scrollbar {
+				width: 0;  /* remove scrollbar space */
+				background: transparent;  /* optional: just make scrollbar invisible */
+			}
+			.loader {
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background-color: #ffffffcf;
+        }
+        .loader img{
+			background-color: #ffffffcf;
+            position: relative;
+            left: 50%;
+            top: 50%;
+        }
+		/* body{
+			text-shadow: 2px 2px #000000;
+		} */
+			
+	</style>
+</head>
+	<body>
+		<div class="loader" ><img src="./assets/96372-loader-5.gif"></div>
+		<!-- <div id="loader"></div> -->
+		<!-- <div id="content"> -->
+			<div class="mob">
+				<nav id="navbr_mob" class="navbar navbar-expand-lg navbar-light bg-light" style="position: fixed; width:100%; z-index:5;transition: top 0.3s;padding-right: 5%; padding-left: 5%;">
+					<a class="navbar-brand" href="">BAERU COASTAL</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarSupportedContent1">
+						<ul class="navbar-nav mr-auto">
+							<li class="nav-item active">
+								<a class="nav-link" href="index.html">HOME <span class="sr-only">(current)</span></a>
+							</li> 
+							<li class="nav-item">
+										<a class="nav-link" href="./our-team/our-team.html">TEAM</a>
+									</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://gcproductions.in/Baeru/blogs">BLOGS</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="career.html">CAREER</a>
+							</li>
+							 <li class="nav-item">
+								<a class="nav-link" href="contact.html">CONTACT US</a>
+							</li>	
+						</ul>
+					</div>
+						<script>
+									$('.navbar-nav>li>a').on('click', function(){
+											$('.navbar-collapse').collapse('hide');
+										});
+						</script>						
+				</nav>
+				<div class="sticky-container">
+					<ul class="sticky">
+						<li><a href="https://www.facebook.com/baeruenvironment" target="_blank">
+							<img width="32" height="32" title="" alt="facebook" src="./assets/fb.png" />
+							<!-- <p>Facebook</p>  -->
+							</a>
+						  </li>
+						  <li><a href="https://www.instagram.com/baeru_environment/" target="_blank">
+							<img width="32" height="32" title="" alt="instagram" src="./assets/insta.png" />
+							<!-- <p>Instagram</p> -->
+						</a>
+						  </li>
+						  <li><a href="https://www.linkedin.com/company/baeru/" target="_blank">
+							<img width="32" height="32" title="" alt="linkeden" src="./assets/linkden.png" />
+							<!-- <p>Linkedin</p> -->
+						 </a>
+						  </li>
+						  <li><a href="https://twitter.com/BaeruCoastClear" target="_blank">
+							<img width="35" height="35" title="" alt="twitter" src="./assets/twiter.png" />
+							<!-- <p>Twitter</p> -->
+						</a>
+						  </li>
+					</ul>
+				</div>
+				<div class="mob_background">
+					<div class="container-fluid lgo">
+						<div class="row">
+							<div class="col" style="text-align: center;" id="logodiv_mob">
+								<h2 class="title1">Baeru Coast Clear</h2>
+								<h6 class="title2">OCEAN BOUND PLASTIC MITIGATION</h6>	
+								<h6 class="title3">ZERO WASTE | CIRCULAR ECONOMY | COASTAL LIVELIHOODS</h6>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid about">
+						<div class="row" id="about_mob">
+							<div class="col">
+								<h2 class="heading">Solid Waste Management</h2>
+								<p class="en content">
+									We provide end-to-end waste management services based on the principles of circular economy. We handle
+									waste sustainably and responsibly for bulk waste generating organizations and institutions.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid about1">
+						<div class="row" id="about1_mob">
+							<div class="col">
+								<h2 class="heading">Coast Clear</h2>
+								<p class="content">The increasing amount of plastic pollution is a serious threat to marine life as well as 
+									to coastal communities. Our mission is to make india's coastal regions resilient through 
+									mitigation of ocean plastic pollution, creation of circular economy and generation of dignified
+									livelihoods for coastal and rural women.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid mission1">
+						<div class="row" id="mission1_mob">
+							<div class="col">
+								<p class="content">
+									At the Sustainable Blue Economy Investment Forum in Cascais, Portugal, a special UN Ocean 
+									Conference event, Baeru Environmental Services joined 150 major companies in signaling their
+									commitment to a healthy ocean by signing onto the UN Global Compact Sustainable Ocean 
+									Principles.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid mission2">
+						<div class="row" id="mission2_mob">
+							<div class="col">
+								<p class="content">
+									We make waste management practices sustainable and economically beneficial for rural communities while empowering 
+									women to turn waste into wealth in a meticulously managed process driven by data and technology.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid enabling_women">
+						<div class="row" id="enabling_women_mob">
+							<div class="col">
+								<h2 class="heading">Enabling Women</h2>
+								<p class="content">Our mission is to leverage design, technology, lingual and regional context to achieve climate and gender justice.
+									We are achieving this through a two-pronged	approach of climate education and economic empowerment of rural women. Our programs
+									are action-driven and we give local communities - particularly, women and youth - the platform and voice to impact their world.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid climate">
+						<div class="row" id="climate_mob">
+							<div class="col">
+								<h2 class="heading">Climate Action</h2>
+								<p class="content">We are a group of diverse individuals who want to foster dialogue and work towards 
+									climate action, civic awareness, and a circular economy in the local communities of
+									Karnataka. We believe that weaving sustainability into the very fabric of development
+									is the key to building a green and livable future. Making climate action accessible
+									and achievable for second and third tier cities can spark significant community-wide
+									social change that is meaningful.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid circular">
+						<div class="row" id="circular_mob">
+							<div class="col">
+								<h2 class="heading">Circular Economy</h2>
+								<p class="content">Waste managed at source becomes a resource. To close the loop in a circular economy,
+								   the waste materials our women collect are segregated based on reusability, washed, 
+								   dried and then transformed into functional products. We work with women from difficult
+								   economic backgrounds and differently-abled persons to help the community while closing
+								   this loop.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid sustainability">
+						<div class="row" id="sustainability_mob">
+							<div class="col">
+								<h2 class="heading">Sustainability</h2>
+								<p class="content">We work primarily with these women to make a sustainable lifestyle more accessible
+								   to them and instill community-wide change. This helps the movement gain momentum by
+								   empowering women and bolstering their position as decision makers, and also increasing
+								   their employability and therefore financial security.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="container-fluid sustainable" style="position: relative;padding-left:5%;padding-right:5%;">
+						<div class="row">
+							<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+								 <p style="color:#fff;text-align:center;font-size:3.200vw;font-weight:800">SUSTAINABLE DEVELOPMENT GOALS</p>
+							 </div>
+							<div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">
+					   
+								<img src="./assets/E-WEB-Goal-01.png" style="padding: 8px;"/>
+								<img src="./assets/E-WEB-Goal-05.png" style="padding: 8px;"/>
+								<img src="./assets/E-WEB-Goal-08.png" style="padding: 8px;"/>
+								<img src="./assets/E-WEB-Goal-10.png" style="padding: 8px;"/>
+								<img src="./assets/E-WEB-Goal-11.png" style="padding: 8px;"/>
+								<img src="./assets/E-WEB-Goal-13.png" style="padding: 8px;"/>
+								<img src="./assets/E-WEB-Goal-14.png" style="padding: 8px;"/>
+								<img src="./assets/E-WEB-Goal-15.png" style="padding: 8px;"/>
+								<img src="./assets/E-WEB-Goal-17.png" style="padding: 8px;"/>
+								<img src="./assets/SDG.png" style="padding: 8px;"/>
+							</div>					
+						</div>
+					</div>
+				</div>
+				<div class="container-fluid footer">
+					<div class="row">
+						<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+							 <p style="color:#000">IMPACT PARTNERS </p>
+						 </div>
+						 <div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">							   
+							<img src="./assets/Baeru Footer logos/nsrcel.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/capgemini.png" width="125px" style="padding: 8px;"/>						
+							<img src="./assets/Baeru Footer logos/smeclimatehub.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/theclimaterealityproject.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/GOK logo.png" width="125px" style="padding: 8px;"/>
+						</div>
+					</div>
+					<div class="row">
+						<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+							 <p style="color:#000">AWARDS & RECOGNITION </p>
+						 </div>
+						 <div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">	
+							 <img src="./assets/Baeru Footer logos/united nations global compact.png" width="125px" style="padding: 8px;"/> 
+							<img src="./assets/Baeru Footer logos/unescogreencitizen.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/unwomen.png" width="125px" style="padding: 8px;"/>
+							<!-- <img src="./assets/Baeru Footer logos/kwaa.png" width="125px" style="padding: 8px;"/> -->						
+							<img src="./assets/Baeru Footer logos/wep.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/kwaa.png" width="125px" style="padding: 8px;"/>
+						</div>
+					</div>		
+				</div>
+			</div>
+			<div class="desk">
+				<div class="header">
+					<header>
+						<nav id="navbr" class="navbar navbar-expand-lg navbar-dark">
+							<a class="navbar-brand" href="">
+								<img class="logo" src="./assets/Baeru_Logo (1).png" alt="logo">
+							</a>				
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								<ul class="navbar-nav ml-auto">
+									<li class="nav-item">
+										<a class="nav-link active" href="index.html">HOME <span class="sr-only">(current)</span></a>
+									</li> 
+									<li class="nav-item">
+										<a class="nav-link" href="./our-team/our-team.html">TEAM</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="https://gcproductions.in/Baeru/blogs">BLOGS</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="career.html">CAREER</a>
+									</li>
+									 <li class="nav-item">
+										<a class="nav-link" href="contact.html">CONTACT US</a>
+									</li>	
+								</ul>					
+							</div>
+						</nav>
+					</header>					
+					<script>
+						document.addEventListener('scroll', ()=>{
+							const header = document.querySelector('header');
+	
+							if(window.scrollY > 0){
+								header.classList.add('scrolled');
+							}
+							else{
+								header.classList.remove('scrolled');
+							}
+						})
+						// const timeout = setTimeout(myScroll, 3000);
+						// function myScroll(){
+						// 	console.log("scrolling stops")
+						// }
+						const onScrollStop = callback => {
+						let isScrolling;
+						window.addEventListener(
+							'scroll',
+							e => {
+							clearTimeout(isScrolling);
+							isScrolling = setTimeout(() => {
+								callback();
+							}, 150);
+							},
+							false
+						);
+						};
+						onScrollStop(() => {
+						//   console.log('The user has stopped scrolling');
+						const header = document.querySelector('header');
+						header.classList.remove('scrolled');
+	
+						});					
+					</script>
+				</div>			
+				<div class="sticky-container">
+					<ul class="sticky">
+						<li><a href="https://www.facebook.com/baeruenvironment" target="_blank">
+							<img width="32" height="32" title="" alt="facebook" src="./assets/fb.png" />
+							<!-- <p>Facebook</p>  -->
+							</a>
+						  </li>
+						  <li><a href="https://www.instagram.com/baeru_environment/" target="_blank">
+							<img width="32" height="32" title="" alt="instagram" src="./assets/insta.png" />
+							<!-- <p>Instagram</p> -->
+						</a>
+						  </li>
+						  <li><a href="https://www.linkedin.com/company/baeru/" target="_blank">
+							<img width="32" height="32" title="" alt="linkeden" src="./assets/linkden.png" />
+							<!-- <p>Linkedin</p> -->
+						 </a>
+						  </li>
+						  <li><a href="https://twitter.com/BaeruCoastClear" target="_blank">
+							<img width="35" height="35" title="" alt="twitter" src="./assets/twiter.png" />
+							<!-- <p>Twitter</p> -->
+						</a>
+						  </li>
+					</ul>
+				</div>		
+				<div style="position: relative;">
+					<div id='hero' style="height: auto">
+						<div class='layer-bg layer'></div>
+					</div>				
+					<div class="baeru">
+						<div class="container-fluid d_lgo main_title">
+							<div class="row">
+								<div class="col" style="text-align: center;" id="logodiv">
+									<div style="position: relative; top: 10%;">
+										<h6 class="title1">Baeru Clear</h6> 
+										<h2 class="title2">OCEAN BOUND PLASTIC MITIGATION</h2>
+										<h6 class="title3">ZERO WASTE | CIRCULAR ECONOMY | COASTAL LIVELIHOODS</h6>
+										<div class="row ico-logo"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="container-fluid d_combined">
+							<div class="container-fluid d_about" style="padding-left:5%; padding-right:5%;">
+								<div class="row">
+									<div class="col"></div>
+									<div class="col">
+										<div class="d_about_col">
+											<!--<p style="font-size: 25px; text-align:left; margin-bottom: 2%;">About</p>-->									
+											<h2>Solid Waste Management</h2>
+											<p class="en">
+												We provide end-to-end waste management services based on the principles of circular economy. We handle
+												waste sustainably and responsibly for bulk waste generating organizations and institutions.
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="container-fluid d_about1" style="position: relative;padding-left:5%;padding-right:5%;">
+								<div class="row">
+									<div class="col">
+										<!-- <p style="font-size: 20px; margin-bottom: 2%;">Coastal Edit</p> -->
+										<div class="d_about1_col">
+											<h2>Coast Clear</h2>
+											<p>The increasing amount of plastic pollution is a serious threat to marine life as well as 
+												to coastal communities. Our mission is to make india's coastal regions resilient through 
+												mitigation of ocean plastic pollution, creation of circular economy and generation of dignified
+												livelihoods for coastal and rural women.
+											</p>
+											<!-- <p>Above all, we’re here to listen to what the communities have to say. Taking their experiences into account is paramount while creating solutions which can help them ultimately move towards a circular economy. We believe in thinking past constraints and crafting solutions that are situated in the right context and have the best chance of actually working.
+											</p> -->
+										</div>
+									</div>
+									<div class="col">								
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="container-fluid d_mission1" style="position: relative;padding-left:5%;padding-right:5%;">
+							<div class="row">
+								<div class="col-1">
+								</div>
+								<div class="col-10">
+									<div style="position: sticky; top: 25%;">
+										<p style="text-align: center;">
+											At the Sustainable Blue Economy Investment Forum in Cascais, Portugal, a special UN Ocean 
+											Conference event, Baeru Environmental Services joined 150 major companies in signaling their
+											 commitment to a healthy ocean by signing onto the UN Global Compact Sustainable Ocean 
+											 Principles.
+										</p>
+									</div>
+								</div>
+								<div class="col-1">
+								</div>
+							</div>
+						</div>
+						<div class="container-fluid d_mission2" style="position: relative;padding-left:5%;padding-right:5%;">
+							<div class="row">
+								<div class="col-1">
+								</div>
+								<div class="col-10">
+									<div style="position: sticky; top: 25%;">
+										<p style="text-align: center;">
+											We make waste management practices sustainable and economically beneficial for rural communities while empowering 
+											women to turn waste into wealth in a meticulously managed process driven by data and technology.
+										</p>
+									</div>
+								</div>
+								<div class="col-1">
+								</div>							
+							</div>
+						</div>
+						<div class="container-fluid d_enabling_women" style="position: relative;padding-left:5%;padding-right:5%;">
+							<div class="row">
+								<div class="col">
+									<!-- <p style="font-size: 20px; margin-bottom: 2%;">Coastal Edit</p> -->
+								</div>
+								<div class="col">	
+									<div style="position: sticky; top: 25%; width:85%">
+										<h2>Enabling Women</h2>
+										<p>Our mission is to leverage design, technology, lingual and regional context to
+											 achieve climate and gender justice. We are achieving this through a two-pronged
+											  approach of climate education and economic empowerment of rural women. Our programs
+											   are action-driven and we give local communities - particularly, women and youth 
+											   - the platform and voice to impact their world.
+										</p>
+										<!-- <p>Above all, we’re here to listen to what the communities have to say. Taking their experiences into account is paramount while creating solutions which can help them ultimately move towards a circular economy. We believe in thinking past constraints and crafting solutions that are situated in the right context and have the best chance of actually working.
+										</p> -->
+									</div>							
+								</div>
+							</div>
+						</div>
+						<div class="container-fluid d_climate" style="position: relative;padding-left:5%;padding-right:5%;">
+							<div class="row">
+								<div class="col">
+									<!-- <p style="font-size: 20px; margin-bottom: 2%;">Coastal Edit</p> -->
+									<div style="position: sticky; top: 25%;width:85%">
+										<h2>Climate Action</h2>
+										<p>We are a group of diverse individuals who want to foster dialogue and work towards 
+											climate action, civic awareness, and a circular economy in the local communities of
+											 Karnataka. We believe that weaving sustainability into the very fabric of development
+											  is the key to building a green and livable future. Making climate action accessible
+											   and achievable for second and third tier cities can spark significant community-wide
+											 social change that is meaningful.
+										</p>
+										<!-- <p>Above all, we’re here to listen to what the communities have to say. Taking their experiences into account is paramount while creating solutions which can help them ultimately move towards a circular economy. We believe in thinking past constraints and crafting solutions that are situated in the right context and have the best chance of actually working.
+										</p> -->
+									</div>	
+								</div>
+								<div class="col">														
+								</div>
+							</div>
+						</div>
+						<div class="container-fluid d_circular" style="position: relative;padding-left:5%;padding-right:5%;">
+							<div class="row">
+								<div class="col">
+									<!-- <p style="font-size: 20px; margin-bottom: 2%;">Coastal Edit</p> -->
+										
+								</div>
+								<div class="col">	
+									<div style="position: sticky; top: 25%;width:85%">
+										<h2>Circular Economy</h2>
+										<p>Waste managed at source becomes a resource. To close the loop in a circular economy,
+											 the waste materials our women collect are segregated based on reusability, washed, 
+											 dried and then transformed into functional products. We work with women from difficult
+											  economic backgrounds and differently-abled persons to help the community while closing
+											 this loop.
+										</p>
+										<!-- <p>Above all, we’re here to listen to what the communities have to say. Taking their experiences into account is paramount while creating solutions which can help them ultimately move towards a circular economy. We believe in thinking past constraints and crafting solutions that are situated in the right context and have the best chance of actually working.
+										</p> -->
+									</div>					
+								</div>
+							</div>
+						</div>
+						<div class="container-fluid d_sustainability" style="position: relative;padding-left:5%;padding-right:5%;">
+							<div class="row">
+								<div class="col">
+									<!-- <p style="font-size: 20px; margin-bottom: 2%;">Coastal Edit</p> -->
+									<div style="position: sticky; top: 25%;width:85%">
+										<h2>Sustainability</h2>
+										<p>We work primarily with these women to make a sustainable lifestyle more accessible
+										   to them and instill community-wide change. This helps the movement gain momentum by
+											empowering women and bolstering their position as decision makers, and also increasing
+											 their employability and therefore financial security.
+										</p>
+										<!-- <p>Above all, we’re here to listen to what the communities have to say. Taking their experiences into account is paramount while creating solutions which can help them ultimately move towards a circular economy. We believe in thinking past constraints and crafting solutions that are situated in the right context and have the best chance of actually working.
+										</p> -->
+									</div>	
+								</div>
+								<div class="col">													
+								</div>
+							</div>
+						</div>
+						<div class="container-fluid d_sustainable" style="position: relative;padding-left:5%;padding-right:5%;">
+							<div class="row">
+								<div class="col-1">
+								</div>
+								<div class="col-10">
+									<div style="position: sticky; top: 25%;">
+										<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+											<p>SUSTAINABLE DEVELOPMENT GOALS</p>
+										</div>
+									   <div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">
+								  
+										   <img src="./assets/E-WEB-Goal-01.png" style="padding: 8px;"/>
+										   <img src="./assets/E-WEB-Goal-05.png" style="padding: 8px;"/>
+										   <img src="./assets/E-WEB-Goal-08.png" style="padding: 8px;"/>
+										   <img src="./assets/E-WEB-Goal-10.png" style="padding: 8px;"/>
+										   <img src="./assets/E-WEB-Goal-11.png" style="padding: 8px;"/>
+										   <!-- <img src="images/nsrcel.png" width="125px" style="padding: 8px;"/> -->
+									   </div>
+									   <div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">
+								  
+										   <img src="./assets/E-WEB-Goal-13.png" style="padding: 8px;"/>
+										   <img src="./assets/E-WEB-Goal-14.png" style="padding: 8px;"/>
+										   <img src="./assets/E-WEB-Goal-15.png" style="padding: 8px;"/>
+										   <img src="./assets/E-WEB-Goal-17.png" style="padding: 8px;"/>
+										   <img src="./assets/SDG.png" style="padding: 8px;"/>
+										   <!-- <img src="images/nsrcel.png" width="125px" style="padding: 8px;"/> -->
+									   </div>
+									</div>
+								</div>
+								<div class="col-1">
+								</div>							
+							</div>
+						</div>	
+						<div class="container-fluid footer">
+							<div class="row impact">
+								<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+									 <p style="color:#000">IMPACT PARTNERS </p>
+								 </div>
+								 <div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">							   
+							<img src="./assets/Baeru Footer logos/nsrcel.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/capgemini.png" width="125px" style="padding: 8px;"/>						
+							<img src="./assets/Baeru Footer logos/smeclimatehub.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/theclimaterealityproject.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/GOK logo.png" width="125px" style="padding: 8px;"/>
+						</div>
+							</div>
+							<div class="row awards">
+								<div class="navbar navbar-expand-lg navbar-light" style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+									<p style="color:#000">AWARDS & RECOGNITION </p>
+								</div>
+								<div class="navbar navbar-expand-lg navbar-light" style="display: flex; width: 100%;justify-content: center;flex-wrap: wrap;">	
+							 <img src="./assets/Baeru Footer logos/united nations global compact.png" width="125px" style="padding: 8px;"/> 
+							<img src="./assets/Baeru Footer logos/unescogreencitizen.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/unwomen.png" width="125px" style="padding: 8px;"/>
+							<!-- <img src="./assets/Baeru Footer logos/kwaa.png" width="125px" style="padding: 8px;"/> -->						
+							<img src="./assets/Baeru Footer logos/wep.png" width="125px" style="padding: 8px;"/>
+							<img src="./assets/Baeru Footer logos/kwaa.png" width="125px" style="padding: 8px;"/>
+						</div>
+							</div>			
+						</div>
+					
+				</div>
+			</div>
+	
+		<!-- </div> -->
+		<script>
+		 window.onload = function() 
+    {
+        //display loader on page load 
+        $('.loader').hide(10000);
+    }
+		</script>
+		<script  src="./assets/js/index.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
+		<script src="assets/js/jquery.firstVisitPopup.js"></script>     		
+	</body>
+</html>
